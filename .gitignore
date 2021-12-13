@@ -1,0 +1,11 @@
+.idea
+.vscode
+__pycache__/
+weights/Resnet50_Final.pth
+Out.mkv
+1.jpg
+input.mkv
+utils\__pycache__/
+models\__pycache__/
+layers\__pycache__/
+data\__pycache__/
